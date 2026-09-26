@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Typewell — Exam typing practice</title><link rel="stylesheet" href="styles.css"></head>
+<body><header><a class="brand" href="./"><svg viewBox="0 0 32 24" aria-hidden="true"><rect x="1.5" y="1.5" width="29" height="21" rx="3"/><path d="M6 7h2m3 0h2m3 0h2m3 0h2M6 11h2m3 0h2m3 0h2m3 0h2M6 15h2m3 0h12M6 19h18"/></svg>Typewell</a><span>A little practice. A lot more confidence.</span></header>
+<main><section class="intro"><h1>Good habits. Confident typing.</h1><p>Build your muscle memory, one keystroke at a time.</p></section>
+<nav class="tracks" aria-label="Practice track"></nav>
+<div class="workspace"><section class="practice" aria-label="Typing practice"><div class="toolbar"><label class="sr-only" for="lesson">Lesson</label><select id="lesson"></select><button id="restart" class="text-button">↻ &nbsp; Restart</button></div>
+<div class="metrics"><div><strong id="wpm">0</strong><span>WPM</span></div><div><strong id="accuracy">100%</strong><span>Accuracy</span></div><div><strong id="time">0:00</strong><span>Time</span></div></div>
+<div id="exercise" class="exercise" aria-label="Text to type"></div>
+<div id="typing-wrap" hidden><label for="input" class="sr-only">Type the exercise here</label><textarea id="input" rows="2" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="Type here. Take your time." aria-describedby="feedback"></textarea></div>
+<p id="feedback" class="feedback" role="status">Start with your index fingers on F and J.</p>
+<button id="start" class="primary">Start practice</button><div class="progress" aria-label="Lesson progress"><div id="progress-fill"></div></div>
+<div id="keyboard" aria-label="US QWERTY keyboard and finger guide"></div>
+<div class="keyboard-caption"><span id="next-key">Next: F · Left index</span><label><input type="checkbox" id="show-guide" checked> Show guide</label></div>
+<div id="result" class="result" hidden role="status"></div>
+</section>
+<aside><h2>Make yourself at home</h2><ol class="steps"><li><div><strong>Find the bumps on F and J.</strong><p>Both keys have a small bump. Use them to orient your hands without looking at the keyboard.</p></div></li><li><div><strong>Rest on A S D F · J K L ;</strong><p>Keep your fingers relaxed on the home row. These are your starting positions.</p></div></li><li><div><strong>Let your thumbs handle Space.</strong><p>Use either thumb and keep your other fingers near the home row.</p></div></li></ol>
+<div class="finger-section"><h3>Finger mapping <span>(US QWERTY)</span></h3><div id="hands" class="hands"></div></div>
+<div class="tip"><strong>Accuracy first. Speed follows.</strong><p id="tip-text">Keep your eyes on the screen and return to the home row.</p></div>
+<details><summary>Posture &amp; typing tips</summary><p>Sit upright with feet supported, elbows relaxed, and wrists neutral. Keep a light touch and take regular breaks.</p><p>Use the opposite hand’s Shift key for capitals and symbols. Press Enter for ↵ and Space for ·. In code, Tab enters four spaces.</p><p>The guide suggests fingers; it cannot detect which finger you use. Use a physical US QWERTY keyboard for two-hand practice.</p></details>
+</aside></div>
+<section class="extras"><details id="custom-details"><summary>Practice your own material</summary><p>Paste a TOEFL or IELTS passage, or a Java snippet. Text stays in this browser.</p><label class="sr-only" for="custom-text">Your practice material</label><textarea id="custom-text" rows="5" maxlength="3000" placeholder="Paste up to 3,000 characters…"></textarea><button class="primary" id="use-custom">Use this text</button><p id="custom-message" role="status"></p></details><details><summary>Your practice record <span id="record-count"></span></summary><div id="history"></div></details></section>
+<footer><span id="storage-status">US QWERTY · Progress saved on this device</span><p>Original exam-themed practice, not official test questions. TOEFL, IELTS and AP CSA are their owners’ trademarks.</p></footer></main><script src="lessons.js"></script><script src="app.js"></script></body></html>
