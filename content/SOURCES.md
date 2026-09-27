@@ -33,3 +33,7 @@ Older local AP entries with inconsistent year labels were not used to establish 
 `source-exercises.json` retains title, track, kind, text, source, provenance, normalization/adaptation note, and either a source URL or a relative local source path. `starter-lessons.json` retains the initial original exercises. `scripts/build-lessons.py` produces the browser's `lessons.js`; no source bank access is required to rebuild the curated library.
 
 The app uses textContent to display lesson text and metadata. Imported text is not executed as HTML. No answer keys, credentials, student data, or full source PDFs are part of this library.
+
+## Extended practice (September 2026)
+
+`long-exercises.json` adds nine **original** extended exercises: three TOEFL-style academic readings (321–329 words), three IELTS-style academic readings (568–599 words), and three AP CSA-style free-response specifications (348–369 words). These are not verbatim released questions, model answers, or official exam-length requirements. They supplement the attributed excerpts in `source-exercises.json`; the distinction is shown in each lesson's source notes. Academic passage themes include urban ecology, lake sediment, learning, public libraries, and product repair. AP specifications cover class state, ArrayList operations, and two-dimensional arrays, with explicit examples and boundary conditions.

@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """Build the offline browser library from the curated, attributed lesson records."""
 import json
+import hashlib
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 starters = json.loads((ROOT / 'content/starter-lessons.json').read_text())
 extras = json.loads((ROOT / 'content/source-exercises.json').read_text())
+extras += json.loads((ROOT / 'content/long-exercises.json').read_text())
 lessons = {track: [] for track in starters}
 for record in extras:
     meta = {k: v for k, v in record.items() if k not in ('track', 'title', 'text')}
@@ -18,7 +20,8 @@ for track, rows in lessons.items():
     for title, text, meta in rows:
         assert (track, title) not in seen, (track, title)
         seen.add((track, title))
-        assert text and len(text) <= 3000, title
+        meta['id'] = hashlib.sha256((track + '\0' + title + '\0' + text).encode()).hexdigest()[:24]
+        assert text and len(text) <= 20000, title
         assert all(c == '\n' or ' ' <= c <= '~' for c in text), title
         assert '###' not in text and '<br' not in text and 'Correct Answer' not in text, title
         assert all(line == line.rstrip() for line in text.splitlines()), title

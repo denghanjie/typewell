@@ -8,7 +8,8 @@ const LESSONS = {
         "kind": "Foundations",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "459a5bf280e9db6c8aa22e5c"
       }
     ],
     [
@@ -18,7 +19,8 @@ const LESSONS = {
         "kind": "Foundations",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "0d0fe903e4d8be3d28223948"
       }
     ],
     [
@@ -28,7 +30,8 @@ const LESSONS = {
         "kind": "Foundations",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "27ad76f3f85a9183c94260b8"
       }
     ],
     [
@@ -38,7 +41,8 @@ const LESSONS = {
         "kind": "Foundations",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "4e5e712bc271216d0bae6213"
       }
     ],
     [
@@ -48,7 +52,8 @@ const LESSONS = {
         "kind": "Foundations",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "dec97623f514d65ed05b8b17"
       }
     ],
     [
@@ -58,7 +63,8 @@ const LESSONS = {
         "kind": "Foundations",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "463bdb5a6c0698e8f886c373"
       }
     ],
     [
@@ -68,7 +74,8 @@ const LESSONS = {
         "kind": "Foundations",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "7877e9d0b0c91b33f02c2c56"
       }
     ]
   ],
@@ -81,7 +88,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方样题01 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方样题01/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "ba21b222401f0340b5d8b364"
       }
     ],
     [
@@ -92,7 +100,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方样题01 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方样题01/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "31ea0b8d72de06e5a45b96f1"
       }
     ],
     [
@@ -103,7 +112,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方样题01 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方样题01/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "dac35d80ecd02d4c525f4e43"
       }
     ],
     [
@@ -114,7 +124,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方样题02 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方样题02/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "838922534df16254053ea44c"
       }
     ],
     [
@@ -125,7 +136,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方样题02 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方样题02/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "984a75adba278cd8ec07e34a"
       }
     ],
     [
@@ -136,7 +148,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方样题02 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方样题02/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "a5feb53d3d778bf0baeb4317"
       }
     ],
     [
@@ -147,7 +160,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题01 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题01/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "9da9782144762c9501ff2d48"
       }
     ],
     [
@@ -158,7 +172,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题01 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题01/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "abd52e8d036c922ea84c45af"
       }
     ],
     [
@@ -169,7 +184,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题01 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题01/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "4bc17cae8e316ee672c2f028"
       }
     ],
     [
@@ -180,7 +196,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题02 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题02/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "ed112c1b3e4868e8e2277c37"
       }
     ],
     [
@@ -191,7 +208,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题02 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题02/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "96d3c3ebec8a2bbb3b56229d"
       }
     ],
     [
@@ -202,7 +220,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题02 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题02/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "fae0cf5417a2b5f37bb2a473"
       }
     ],
     [
@@ -213,7 +232,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题03 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题03/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "bb9d72582d88a031d10aff35"
       }
     ],
     [
@@ -224,7 +244,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题03 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题03/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "030e9cbc24b8878a464d1766"
       }
     ],
     [
@@ -235,7 +256,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题03 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题03/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "a3be685cf704c7d5da0a6480"
       }
     ],
     [
@@ -246,7 +268,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题04 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题04/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "f89ad5ff61e27e17734a6fe5"
       }
     ],
     [
@@ -257,7 +280,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题04 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题04/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "21ffacd49769d110a0f82bf9"
       }
     ],
     [
@@ -268,7 +292,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题04 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题04/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "669a4116d34d0824ab810893"
       }
     ],
     [
@@ -279,7 +304,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题05 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题05/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "b1a96c663d2a8ccdc8765a71"
       }
     ],
     [
@@ -290,7 +316,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题05 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题05/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "b3b66285ab5f6ac81d2020aa"
       }
     ],
     [
@@ -301,7 +328,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题05 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题05/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "7fa5a862d1139269b2161865"
       }
     ],
     [
@@ -312,7 +340,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题06 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题06/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "615e5842bab250f1deb4b0ec"
       }
     ],
     [
@@ -323,7 +352,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题06 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题06/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "9f2fd7db81f3b2585b9a29eb"
       }
     ],
     [
@@ -334,7 +364,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题06 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题06/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "eb234ccbe51627c287c348dd"
       }
     ],
     [
@@ -345,7 +376,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题07 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题07/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "bc3894a3bb0dbef5136ad02f"
       }
     ],
     [
@@ -356,7 +388,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题07 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题07/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "fe770db2be32b8d6a76ddf28"
       }
     ],
     [
@@ -367,7 +400,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题07 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题07/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "2431a804eddc1462d02794cf"
       }
     ],
     [
@@ -378,7 +412,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题08 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题08/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "d282cd89fc1a176a4534bf12"
       }
     ],
     [
@@ -389,7 +424,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题08 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题08/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "d01cd09c6644ef55e5c41c80"
       }
     ],
     [
@@ -400,7 +436,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题08 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题08/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "a0ef34d54319375a173d3dae"
       }
     ],
     [
@@ -411,7 +448,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题09 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题09/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "4c491b586b44aef01d09d386"
       }
     ],
     [
@@ -422,7 +460,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题09 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题09/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "b13bcafce2a34075890d5859"
       }
     ],
     [
@@ -433,7 +472,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题09 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题09/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "e6e3521336b235ced79b6d7c"
       }
     ],
     [
@@ -444,7 +484,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题10 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题10/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "70a44533464fe6d312c915d8"
       }
     ],
     [
@@ -455,7 +496,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题10 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题10/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "58d8e4d3872a1162053df8a3"
       }
     ],
     [
@@ -466,7 +508,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题10 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题10/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "802dde86f303d0fc945c9809"
       }
     ],
     [
@@ -477,7 +520,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题11 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题11/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "3e98ff9b39287d3ab426709b"
       }
     ],
     [
@@ -488,7 +532,8 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题11 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题11/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "52681adf9d581fb6d6393119"
       }
     ],
     [
@@ -499,7 +544,44 @@ const LESSONS = {
         "source": "TOEFL local collection · 官方模考题11 · Reading",
         "provenance": "Local bank excerpt (publisher status not independently verified)",
         "sourcePath": "TOEFL/toefl_papers/官方模考题11/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "11a088be5bdc1d5221b76f57"
+      }
+    ],
+    [
+      "Long passage · How cities change the night",
+      "For most of human history, sunset brought a dramatic reduction in the light available outdoors. Today, artificial lighting allows transportation, work, and recreation to continue throughout the night. This change has obvious practical benefits, but it also creates a new environmental condition. Animals and plants that evolved under predictable cycles of daylight and darkness now encounter illuminated streets, buildings, and industrial sites.\n\nThe effects of artificial light depend on more than its brightness. Its color, direction, and timing also matter. A lamp that directs light downward may illuminate a path while producing less light above nearby trees. A light that switches off after midnight creates a different pattern from one that remains on until sunrise. Researchers therefore cannot describe the biological effects of a city simply by counting its lamps.\n\nMigrating birds illustrate the complexity of this problem. Many species travel at night, when temperatures are lower and certain predators are less active. Brightly illuminated structures may attract or disorient some birds, increasing the time they spend circling unfamiliar areas. Yet migration routes also depend on weather, food, and geography. To distinguish these influences, scientists compare observations from multiple locations and seasons instead of attributing every unusual flight pattern to lighting.\n\nPlants provide another useful area of study. The length of the night helps some species regulate seasonal development. Light from a nearby streetlamp can alter the conditions experienced by one branch while leaving the rest of a tree relatively dark. Such contrasts allow researchers to examine localized responses, although temperature and other environmental differences must still be considered.\n\nReducing unnecessary lighting does not require abandoning nighttime activity. Shielded fixtures, carefully chosen brightness levels, and controls that respond to actual use can preserve useful illumination. The broader lesson is that an environmental improvement may come from making a technology more precise. By asking where, when, and how much light is needed, planners can address human needs while limiting changes to the surrounding ecosystem.",
+      {
+        "kind": "Long passage",
+        "source": "Typewell extended practice",
+        "provenance": "Original exam-style exercise",
+        "note": "Original academic reading passage for typing practice; not a released test question or an official exam-length requirement.",
+        "adapted": true,
+        "id": "a316afc5f50ab2c4e47bdba9"
+      }
+    ],
+    [
+      "Long passage · The information hidden in lake sediment",
+      "A lake may appear to be a stable feature of a landscape, but material is continually entering and settling within it. Streams carry soil and organic particles from surrounding slopes. Wind delivers dust and pollen. Aquatic organisms grow, die, and contribute their remains. Over time, these materials form layers of sediment that can preserve evidence of environmental change.\n\nTo investigate this record, scientists collect a sediment core: a narrow column extracted from the lake floor. Ideally, the layers remain in their original order, with younger deposits above older ones. The core is then divided into samples for examination. Different analyses answer different questions. Pollen may suggest which plants grew nearby, while mineral particles can provide clues about erosion within the drainage area.\n\nInterpreting these clues requires caution. A high proportion of pollen from one tree species does not automatically mean that the species dominated the entire region. Some plants produce far more pollen than others, and wind can carry it over long distances. Researchers account for these differences by comparing modern vegetation with the pollen that accumulates in present-day lakes. Such comparisons help establish a basis for interpreting older samples.\n\nDating presents an additional challenge. Sediment does not necessarily accumulate at a constant rate. A major storm may deposit a thick layer rapidly, whereas a calm period may leave little material. Scientists therefore use independent chronological evidence whenever possible rather than assuming that equal depths represent equal amounts of time. They also look for signs that organisms or physical processes have disturbed the layers.\n\nDespite these limitations, lake sediments offer an important perspective on environmental history. Written records are often short, geographically uneven, or concerned mainly with human events. Sediment records can extend much further into the past. When several independent indicators point toward the same change, researchers gain confidence in their interpretation. The strongest conclusions emerge from combining the sediment record with other evidence, not from treating any single particle as a complete description of an ancient landscape.",
+      {
+        "kind": "Long passage",
+        "source": "Typewell extended practice",
+        "provenance": "Original exam-style exercise",
+        "note": "Original academic reading passage for typing practice; not a released test question or an official exam-length requirement.",
+        "adapted": true,
+        "id": "b9ff096ccfb93b464557f199"
+      }
+    ],
+    [
+      "Long passage · Why learning sometimes benefits from difficulty",
+      "Students often judge a study method by how easy it feels during practice. Reading the same explanation several times can produce a strong sense of familiarity, while trying to recall it without looking may feel slow and frustrating. These experiences do not necessarily predict how much information will remain available a week later. Ease during study and lasting learning are related, but they are not identical.\n\nOne reason is that familiar material provides its own support. When an answer is visible on a page, a learner may recognize it immediately without being able to produce it independently. Closing the book removes this support. Attempting to retrieve the answer reveals which parts of the material are accessible and which still need attention. Feedback can then help the learner correct errors before they become established.\n\nSpacing practice across several days creates a similar contrast. In a single long session, recently encountered information is still highly available. After a delay, retrieving it requires more effort. Successful retrieval under those conditions can strengthen future access, although the appropriate interval depends on the material and the learner's existing knowledge. There is no single schedule that is ideal for every task.\n\nDifficulty is not automatically beneficial. A problem that is far beyond a student's current ability may encourage guessing rather than useful thought. Clear explanations, manageable steps, and timely feedback remain important. The aim is to introduce enough challenge to require active processing while preserving a reasonable chance of success.\n\nFor practical study, these findings suggest a change in how progress is evaluated. Students can ask whether they can explain a concept without notes, apply it in a new example, or recognize a mistake in a proposed solution. These checks provide more information than the feeling that a paragraph looks familiar. Effective practice may sometimes feel less comfortable in the moment, but that discomfort can be useful when it reflects a manageable demand on memory and understanding.",
+      {
+        "kind": "Long passage",
+        "source": "Typewell extended practice",
+        "provenance": "Original exam-style exercise",
+        "note": "Original academic reading passage for typing practice; not a released test question or an official exam-length requirement.",
+        "adapted": true,
+        "id": "f2484e3cc90ebc7d41d260de"
       }
     ],
     [
@@ -509,7 +591,8 @@ const LESSONS = {
         "kind": "Words",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "fd949f745149684ee505960f"
       }
     ],
     [
@@ -519,7 +602,8 @@ const LESSONS = {
         "kind": "Words",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "e6948d5fb320be9894b6983b"
       }
     ],
     [
@@ -529,7 +613,8 @@ const LESSONS = {
         "kind": "Sentence",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "1cae26cf42583feb33c0e41a"
       }
     ],
     [
@@ -539,7 +624,8 @@ const LESSONS = {
         "kind": "Sentence",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "5c34adeae05ccab49b393208"
       }
     ],
     [
@@ -549,7 +635,8 @@ const LESSONS = {
         "kind": "Passage",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "a71bd6419b9d06cfe2b61a01"
       }
     ],
     [
@@ -559,7 +646,8 @@ const LESSONS = {
         "kind": "Passage",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "3f8b207f571161881eb5ace6"
       }
     ]
   ],
@@ -572,7 +660,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 4 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0001-雅思真题04-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "23ab67aa703f793247027194"
       }
     ],
     [
@@ -583,7 +672,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 4 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0001-雅思真题04-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "d12300a13ba53974f199249f"
       }
     ],
     [
@@ -594,7 +684,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 4 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0001-雅思真题04-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "0739927e71a4bac13114fe5d"
       }
     ],
     [
@@ -605,7 +696,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 5 · Test 1 · Reading 2 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0005-雅思真题05-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "8426a2e35b48691267411ce3"
       }
     ],
     [
@@ -616,7 +708,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 5 · Test 1 · Reading 2 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0005-雅思真题05-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "bf31e71cd6f03ed0fed74c16"
       }
     ],
     [
@@ -627,7 +720,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 5 · Test 1 · Reading 2 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0005-雅思真题05-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "cbace125b4f20a9862eb6d66"
       }
     ],
     [
@@ -638,7 +732,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 6 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0009-雅思真题06-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "9d042b262f18fba7b4647a24"
       }
     ],
     [
@@ -649,7 +744,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 6 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0009-雅思真题06-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "077e9d03fa299c6508912a1b"
       }
     ],
     [
@@ -660,7 +756,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 6 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0009-雅思真题06-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "2f9bc65a890aae58e091ff84"
       }
     ],
     [
@@ -671,7 +768,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 7 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0013-雅思真题07-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "304b40f3020eaef743cd3d7c"
       }
     ],
     [
@@ -682,7 +780,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 7 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0013-雅思真题07-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "6166658a5ae92337a110dd79"
       }
     ],
     [
@@ -693,7 +792,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 7 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0013-雅思真题07-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "9f216f3fa64d272106dac1b2"
       }
     ],
     [
@@ -704,7 +804,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 8 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0017-雅思真题08-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "832f2ddf3f6c976f7ceedcfe"
       }
     ],
     [
@@ -715,7 +816,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 8 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0017-雅思真题08-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "66c4b52f004e4357508512c3"
       }
     ],
     [
@@ -726,7 +828,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 8 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0017-雅思真题08-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "5726ef579a73468123b2a7e5"
       }
     ],
     [
@@ -737,7 +840,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 9 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0021-雅思真题09-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "08256f4b6e948e59cf7883c8"
       }
     ],
     [
@@ -748,7 +852,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 9 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0021-雅思真题09-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "1d7e04642e3f3170d5ef08fd"
       }
     ],
     [
@@ -759,7 +864,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 9 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0021-雅思真题09-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "61137965ae7a36c1bf49818e"
       }
     ],
     [
@@ -770,7 +876,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 10 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0025-雅思真题10-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "67aac517b957b792eade2032"
       }
     ],
     [
@@ -781,7 +888,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 10 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0025-雅思真题10-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "56c92db322826815002b021c"
       }
     ],
     [
@@ -792,7 +900,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 10 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0025-雅思真题10-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "40a3c860affe9858343786c9"
       }
     ],
     [
@@ -803,7 +912,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 11 · Test 1 · Reading 2 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0029-雅思真题11-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice. Currency notation expanded."
+        "note": "Selected vocabulary from the source; order changed for typing practice. Currency notation expanded.",
+        "id": "bcdef28cb696a0b1c703adae"
       }
     ],
     [
@@ -814,7 +924,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 11 · Test 1 · Reading 2 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0029-雅思真题11-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY. Currency notation expanded."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY. Currency notation expanded.",
+        "id": "880528fef2f44261a99efb3b"
       }
     ],
     [
@@ -825,7 +936,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 11 · Test 1 · Reading 2 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0029-雅思真题11-test1/reading/data.json",
-        "note": "Short source excerpt; currency notation expanded to GBP and whitespace normalized."
+        "note": "Short source excerpt; currency notation expanded to GBP and whitespace normalized.",
+        "id": "2afbf216ebdd1470b49220fc"
       }
     ],
     [
@@ -836,7 +948,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 12 · Test 5 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0033-雅思真题12-test5/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "626f8740806debe4b3429b91"
       }
     ],
     [
@@ -847,7 +960,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 12 · Test 5 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0033-雅思真题12-test5/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "9c8ff0cb07d9ad6cf05b0136"
       }
     ],
     [
@@ -858,7 +972,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 12 · Test 5 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0033-雅思真题12-test5/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "b5fd46a719eec715e35a3c0e"
       }
     ],
     [
@@ -869,7 +984,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 13 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0037-雅思真题13-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "02ef25045aa5047b9833a467"
       }
     ],
     [
@@ -880,7 +996,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 13 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0037-雅思真题13-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "bb75556a76d2b2b582b5b5ff"
       }
     ],
     [
@@ -891,7 +1008,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 13 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0037-雅思真题13-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "ce70956adb4876944efdba45"
       }
     ],
     [
@@ -902,7 +1020,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 14 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0041-雅思真题14-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "2fba70d6c35ea7a6232bb924"
       }
     ],
     [
@@ -913,7 +1032,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 14 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0041-雅思真题14-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "90ef6932a7d2f32550792930"
       }
     ],
     [
@@ -924,7 +1044,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 14 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0041-雅思真题14-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "0958b026b0996db6f3ec68d9"
       }
     ],
     [
@@ -935,7 +1056,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 15 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0045-雅思真题15-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "eb852289b0af7968e7da0996"
       }
     ],
     [
@@ -946,7 +1068,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 15 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0045-雅思真题15-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "dbc45931b9bb896a0d8f5408"
       }
     ],
     [
@@ -957,7 +1080,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 15 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0045-雅思真题15-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "cdafb71ef0f7933ff7ebee95"
       }
     ],
     [
@@ -968,7 +1092,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 16 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0049-雅思真题16-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "60029bf8b391146072523ea9"
       }
     ],
     [
@@ -979,7 +1104,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 16 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0049-雅思真题16-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "49e1098d5ca24f6718001784"
       }
     ],
     [
@@ -990,7 +1116,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 16 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0049-雅思真题16-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "77e18957650908641dbb8394"
       }
     ],
     [
@@ -1001,7 +1128,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 17 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0053-雅思真题17-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "c207579b206a7f32de5bed7a"
       }
     ],
     [
@@ -1012,7 +1140,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 17 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0053-雅思真题17-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "9dd84a3aaa6a92e99880ec59"
       }
     ],
     [
@@ -1023,7 +1152,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 17 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0053-雅思真题17-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "80403b07a6c3e4cc37eef68f"
       }
     ],
     [
@@ -1034,7 +1164,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 18 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0057-雅思真题18-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "0dda85073c0f028c47bc3bff"
       }
     ],
     [
@@ -1045,7 +1176,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 18 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0057-雅思真题18-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "1ae6cc20f8d112dacebf2890"
       }
     ],
     [
@@ -1056,7 +1188,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 18 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0057-雅思真题18-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "5d8b3fc54134f3f292237008"
       }
     ],
     [
@@ -1067,7 +1200,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 19 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0061-雅思真题19-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "ef7255c295a2d43eae6db465"
       }
     ],
     [
@@ -1078,7 +1212,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 19 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0061-雅思真题19-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "4f54a12e75065e3686c47c00"
       }
     ],
     [
@@ -1089,7 +1224,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 19 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0061-雅思真题19-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "f876b102dac3678142c9f97c"
       }
     ],
     [
@@ -1100,7 +1236,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 20 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0065-雅思真题20-test1/reading/data.json",
-        "note": "Selected vocabulary from the source; order changed for typing practice."
+        "note": "Selected vocabulary from the source; order changed for typing practice.",
+        "id": "f5c73cd710c5ef7f5906fc59"
       }
     ],
     [
@@ -1111,7 +1248,8 @@ const LESSONS = {
         "source": "Cambridge IELTS 20 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0065-雅思真题20-test1/reading/data.json",
-        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY."
+        "note": "Source sentence; punctuation and whitespace normalized for US QWERTY.",
+        "id": "705699aab8b74817e6b61300"
       }
     ],
     [
@@ -1122,7 +1260,44 @@ const LESSONS = {
         "source": "Cambridge IELTS 20 · Test 1 · Reading 1 (local collection)",
         "provenance": "Local Cambridge question-bank excerpt",
         "sourcePath": "IELTS/ielts_papers/0065-雅思真题20-test1/reading/data.json",
-        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY."
+        "note": "Short source excerpt; punctuation and whitespace normalized for US QWERTY.",
+        "id": "1ee2d8820d7b3c9c4dafb804"
+      }
+    ],
+    [
+      "Long passage · Urban trees as public infrastructure",
+      "A tree beside a busy road can be easy to overlook. It occupies a small patch of ground, requires occasional maintenance, and may appear to offer little more than decoration. Yet urban trees participate in several systems that shape everyday life. Their branches alter sunlight, their leaves exchange water with the atmosphere, and their roots interact with soil and underground structures. Viewing trees as infrastructure draws attention to these functions and to the planning needed to sustain them.\n\nShade is one of the most immediate benefits. Buildings and paved surfaces absorb solar energy, while pedestrians experience both direct sunlight and heat emitted by their surroundings. A broad canopy can reduce direct exposure along a walking route. The benefit depends on where the shade falls and when people use the space. A tree that shades an empty parking area at noon may contribute less to pedestrian comfort than one that shades a crowded bus stop at the same hour. Simply counting trees does not capture these differences.\n\nWater management provides another reason to consider the placement of vegetation. Leaves and branches intercept some rainfall, while suitable soil allows water to enter the ground. However, planting a tree in a tiny opening surrounded by compacted pavement does not guarantee effective drainage. The soil volume, drainage conditions, and connection to nearby surfaces all influence the result. Designers may need to modify the surrounding street rather than treat planting as an isolated final step.\n\nUrban conditions can also shorten a tree's life. Roots require both water and oxygen, but heavily compacted soil restricts the spaces through which these resources move. Road construction may damage roots years before the crown shows obvious signs of decline. Limited rooting space can make trees more vulnerable during hot, dry periods. These delayed effects explain why a planting campaign can appear successful initially while producing disappointing results much later.\n\nSelecting species involves balancing several objectives. A tree must be suited to local conditions, but planners also consider mature size, branch structure, maintenance needs, and potential conflicts with utilities. Diversity matters because a streetscape dominated by a single species may be vulnerable to a particular pest or disease. At the same time, adding unfamiliar species without understanding their requirements can create new maintenance problems. A varied population should still be based on knowledge of local growing conditions.\n\nThe distribution of benefits raises questions of fairness. Some neighborhoods have extensive canopy cover and shaded public spaces, while others have little vegetation along the routes residents use daily. An equal number of new trees in each district may preserve this imbalance. A more useful assessment considers existing cover, pedestrian activity, heat exposure, and the availability of suitable planting sites. Community preferences also matter, since residents may have concerns about visibility, fallen leaves, or access to buildings.\n\nLong-term funding is therefore as important as the initial purchase of trees. Young plants often need watering and protection before they can provide substantial shade. Older trees may require inspection and careful pruning. If these responsibilities are omitted from a project's budget, a highly visible planting event can fail to produce a durable improvement. Tracking survival and canopy development over time gives a more informative measure of success than reporting the number planted on a single day.\n\nTreating urban trees as infrastructure does not mean that their cultural or aesthetic value is unimportant. Rather, it places those values alongside practical functions and maintenance obligations. A well-planned urban forest emerges from decisions about streets, soil, water, public use, and care over many years. The tree itself is only the most visible part of that larger system.",
+      {
+        "kind": "Long passage",
+        "source": "Typewell extended practice",
+        "provenance": "Original exam-style exercise",
+        "note": "Original academic reading passage for typing practice; not a released test question or an official exam-length requirement.",
+        "adapted": true,
+        "id": "44ea291e2e8bc620cc94c6d6"
+      }
+    ],
+    [
+      "Long passage · The changing work of public libraries",
+      "Public libraries are often described as collections of books, but this definition captures only part of their role. A collection becomes useful when people can discover, understand, and access its contents. Buildings, catalogues, trained staff, and lending policies all contribute to that process. As information formats change, libraries face a continuing question: which services best support public access to knowledge, and how should limited resources be distributed among them?\n\nDigital publishing initially appeared to offer a straightforward expansion of access. A reader could obtain a text without travelling to a building, and a library could serve users beyond its usual opening hours. In practice, digital lending introduces its own restrictions. Access may depend on a device, an internet connection, a compatible application, and a licensing agreement. A digital item is therefore not always equivalent to a printed book that the library owns and can lend repeatedly under familiar conditions.\n\nThese differences have made assistance with technology an important part of library work. Some visitors need help completing online forms, using a document scanner, or evaluating a suspicious message. The immediate request may be technical, but the underlying need is often participation in education, employment, or public services. A reliable computer and a person who can explain an unfamiliar process may be as valuable to that visitor as access to a particular publication.\n\nAt the same time, the physical building retains significance. A library can provide a place to study without requiring a purchase. This is especially useful where homes are crowded or commercial spaces are expensive. Quiet study areas, meeting rooms, and children's activities may all serve legitimate needs, but they do not always fit comfortably beside one another. Managing sound, movement, and competing expectations becomes a design problem as well as a service decision.\n\nChanges in use create difficulties for evaluation. The number of books borrowed remains a useful measure, yet it cannot describe every benefit of a modern library. A person who attends a language group or receives help with a job application may borrow nothing. Conversely, a high attendance figure does not show whether a programme met participants' needs. Libraries therefore combine counts with surveys, observations, and other forms of feedback. Each method reveals something different and has its own limitations.\n\nPartnerships can extend what a library offers. A local college might provide workshops, while a community organisation contributes language support or specialist knowledge. Such arrangements can connect visitors with expertise that the library could not maintain independently. However, partnerships also require coordination. Staff must establish responsibilities, protect visitors' privacy, and ensure that a service remains accessible to people who do not already belong to the partner organisation.\n\nThe expansion of services does not eliminate the need for careful collection management. Space and budgets remain limited, and older materials may be inaccurate, damaged, or rarely used. Decisions about what to retain can attract public concern because a book may have cultural value beyond its borrowing history. Transparent policies help explain how libraries balance current demand, local history, reliability, and the preservation responsibilities of other institutions.\n\nThe library's changing role is therefore better understood as an adjustment of methods than as a simple replacement of books by computers. Its central purpose continues to involve access: to information, to tools for using it, and to spaces where learning can occur. The most appropriate mix of services will differ between communities. Understanding those differences requires attention to how people actually use a library, including activities that are less visible than a book leaving the lending desk.",
+      {
+        "kind": "Long passage",
+        "source": "Typewell extended practice",
+        "provenance": "Original exam-style exercise",
+        "note": "Original academic reading passage for typing practice; not a released test question or an official exam-length requirement.",
+        "adapted": true,
+        "id": "fdf04c620d3811967bcb6452"
+      }
+    ],
+    [
+      "Long passage · Repairing products in a disposable economy",
+      "When a household appliance stops working, replacing it can seem easier than arranging a repair. A new model may be available immediately, while diagnosis requires an appointment and an uncertain expense. This individual decision is influenced by a wider system of product design, labour costs, spare parts, and consumer expectations. Understanding why repair has become difficult requires looking beyond whether an owner is willing to keep an old object.\n\nThe structure of a product is an important starting point. Some devices use screws and replaceable components, allowing a technician to reach the failed part without damaging the rest. Others combine several functions in a sealed assembly. Replacing that assembly may be technically possible but economically unattractive. Designers must balance durability, size, manufacturing cost, appearance, and serviceability, and these goals do not always lead to the same choices.\n\nInformation is another essential resource. A technician may need a circuit diagram, a diagnostic procedure, or instructions for safely opening a case. Without suitable documentation, even a relatively simple fault can require lengthy investigation. Experience helps, but it cannot fully substitute for information about every model. Public discussion of repair therefore concerns access to knowledge as well as access to physical components.\n\nSpare parts introduce a further complication. Manufacturers cannot store every component indefinitely, especially when product ranges change rapidly. Nevertheless, a device may remain useful long after its original sales period has ended. If a small, specialised part becomes unavailable, the absence can make the entire product impractical to repair. Standardised components can reduce this problem, although standardisation may also constrain design choices or fail to suit every application.\n\nThe price comparison between repair and replacement can be misleading. The purchase price of a new product is immediately visible, while the environmental costs of producing and transporting it are less apparent to the buyer. Repair also has environmental costs, including travel, replacement parts, and energy use. Whether extending a product's life provides a clear benefit depends partly on how much energy the old and new versions consume during operation. A careful comparison considers the whole situation rather than assuming that every repair is automatically preferable.\n\nCommunity repair events offer one response to these challenges. Volunteers and owners examine broken items together, sometimes restoring them and sometimes learning why repair is not feasible. Such events can build practical confidence and reveal common points of failure. Their value is not limited to the number of objects returned to use. Participants may also develop a better understanding of product maintenance and become more informed when making future purchases.\n\nHowever, volunteer activity cannot replace a complete professional service network. Some repairs require specialised equipment, certified knowledge, or conditions that protect people from electrical and mechanical hazards. A sustainable repair economy needs skilled workers who can earn a reasonable income, alongside training opportunities and access to suitable tools. Treating all repair work as an informal hobby risks overlooking these requirements.\n\nPolicies intended to support repair may address warranties, spare-part availability, documentation, or the ways products are labelled. The effectiveness of any measure depends on its details and on the ability to check compliance. For consumers, clear information about expected service life and repair options can make comparisons easier before a purchase. For manufacturers, predictable standards may encourage serviceability to be considered earlier in development. Repair becomes a realistic everyday choice when the surrounding system supports it, not merely when individuals are urged to waste less.",
+      {
+        "kind": "Long passage",
+        "source": "Typewell extended practice",
+        "provenance": "Original exam-style exercise",
+        "note": "Original academic reading passage for typing practice; not a released test question or an official exam-length requirement.",
+        "adapted": true,
+        "id": "8e57ed4f85fbab082a92f67a"
       }
     ],
     [
@@ -1132,7 +1307,8 @@ const LESSONS = {
         "kind": "Words",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "3e54d346420764e41d93cd42"
       }
     ],
     [
@@ -1142,7 +1318,8 @@ const LESSONS = {
         "kind": "Words",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "553871797c5e78852bb93f78"
       }
     ],
     [
@@ -1152,7 +1329,8 @@ const LESSONS = {
         "kind": "Sentence",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "47d222efb5727d9c309209e2"
       }
     ],
     [
@@ -1162,7 +1340,8 @@ const LESSONS = {
         "kind": "Sentence",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "05d27183ad07fb9d9ad2abd3"
       }
     ],
     [
@@ -1172,7 +1351,8 @@ const LESSONS = {
         "kind": "Passage",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "2333e530f9ef5bfade4ea03d"
       }
     ],
     [
@@ -1182,7 +1362,8 @@ const LESSONS = {
         "kind": "Passage",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "dcf3c66bd8befa48e9437f4f"
       }
     ]
   ],
@@ -1197,7 +1378,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "31728295c0dd7df93e4e5581"
       }
     ],
     [
@@ -1210,7 +1392,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "c2f64e8726547e58c81f817c"
       }
     ],
     [
@@ -1223,7 +1406,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "5740c813a709ddbed4c85c9f"
       }
     ],
     [
@@ -1236,7 +1420,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "541ab34acc6be2183847d39f"
       }
     ],
     [
@@ -1249,7 +1434,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "5d17386482555a767f6758ee"
       }
     ],
     [
@@ -1262,7 +1448,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "5f58d8106e21fbab1cd09829"
       }
     ],
     [
@@ -1275,7 +1462,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "0bfe2f0192dd5c6802f9d66f"
       }
     ],
     [
@@ -1288,7 +1476,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "62e3a507972e0cad5bb40f2b"
       }
     ],
     [
@@ -1301,7 +1490,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "b9f19938e0c4f1293dd3b45e"
       }
     ],
     [
@@ -1314,7 +1504,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "63a7c217587ad23bd1ebd928"
       }
     ],
     [
@@ -1327,7 +1518,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "384dc3fe187117ba4537f64f"
       }
     ],
     [
@@ -1340,7 +1532,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "80e228406f15973dd5fae0c4"
       }
     ],
     [
@@ -1353,7 +1546,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "9cf904f817ff270c585b785c"
       }
     ],
     [
@@ -1366,7 +1560,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "a42da4e7a45bc2fcffb093b3"
       }
     ],
     [
@@ -1379,7 +1574,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "251c5bf44f93062d2ccc89d1"
       }
     ],
     [
@@ -1392,7 +1588,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "ad7387d35be82276a1beb96c"
       }
     ],
     [
@@ -1405,7 +1602,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "598fedd9827193b18463584c"
       }
     ],
     [
@@ -1418,7 +1616,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "fe7a1bd5e0bec6fcc5338770"
       }
     ],
     [
@@ -1431,7 +1630,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "0f43055cd079457953d9f2ee"
       }
     ],
     [
@@ -1444,7 +1644,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "bf28d5ec3bd4da61e6ed9567"
       }
     ],
     [
@@ -1457,7 +1658,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "d59b73680077bec521fd2fe6"
       }
     ],
     [
@@ -1470,7 +1672,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "0728574e8f76f4e1c4af3e49"
       }
     ],
     [
@@ -1483,7 +1686,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "ee17a16ae8f13118e15d5e26"
       }
     ],
     [
@@ -1496,7 +1700,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "ad832cc2a1ce2eab38aa4223"
       }
     ],
     [
@@ -1509,7 +1714,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "22a279401506a7ace61674a9"
       }
     ],
     [
@@ -1522,7 +1728,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "aa90f40a96fb64d75901385f"
       }
     ],
     [
@@ -1535,7 +1742,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "198c302faa809558f2f3d5b2"
       }
     ],
     [
@@ -1548,7 +1756,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "67f449f8318688dc4523a147"
       }
     ],
     [
@@ -1561,7 +1770,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "b2368c37462ec87065e2726a"
       }
     ],
     [
@@ -1574,7 +1784,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "975cd36b1e1851b4fa757ee1"
       }
     ],
     [
@@ -1587,7 +1798,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "b7ac93072cc3752b25fa7264"
       }
     ],
     [
@@ -1600,7 +1812,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "6dcf2fa1b61e87b5b84c93e0"
       }
     ],
     [
@@ -1613,7 +1826,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "37e84d929ee3cd0d3f84fbf7"
       }
     ],
     [
@@ -1626,7 +1840,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "f36d0f4b5b89504d0b7cc5ee"
       }
     ],
     [
@@ -1639,7 +1854,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "0cb49fe80e02b3380c65ef26"
       }
     ],
     [
@@ -1652,7 +1868,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "d45f1415bbf7e642c8ca9afe"
       }
     ],
     [
@@ -1665,7 +1882,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "240af40ce200091e720b2e59"
       }
     ],
     [
@@ -1678,7 +1896,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "c54488dbd1456a7e7bc1a242"
       }
     ],
     [
@@ -1691,7 +1910,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "710adc9d21aa4adb05cb7c64"
       }
     ],
     [
@@ -1704,7 +1924,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "baabbd4693f727e775172bf8"
       }
     ],
     [
@@ -1717,7 +1938,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "be50ad10d1319eb4fdf87edf"
       }
     ],
     [
@@ -1730,7 +1952,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "1e696441b07f55c4b879ee64"
       }
     ],
     [
@@ -1743,7 +1966,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "e2cc86a8c80280444c51b21e"
       }
     ],
     [
@@ -1756,7 +1980,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "239693d5dffd513ced3dbb51"
       }
     ],
     [
@@ -1769,7 +1994,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "a8fb654229a865150453070b"
       }
     ],
     [
@@ -1782,7 +2008,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "de9d3100efd186d1b42995d4"
       }
     ],
     [
@@ -1795,7 +2022,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "a336804a81c694d0103df69c"
       }
     ],
     [
@@ -1808,7 +2036,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "2ade4e003ee9a7764e1a5bf3"
       }
     ],
     [
@@ -1821,7 +2050,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "1aaaa46a141f74f129386a40"
       }
     ],
     [
@@ -1834,7 +2064,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "f19c65933b3779fa86df824f"
       }
     ],
     [
@@ -1847,7 +2078,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "e0b715bff286780294f323cb"
       }
     ],
     [
@@ -1860,7 +2092,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "f2f0130e5c5d13b6ad87a910"
       }
     ],
     [
@@ -1873,7 +2106,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "de184c94801b540d15150004"
       }
     ],
     [
@@ -1886,7 +2120,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "ffef2cbd84e99482b720bf46"
       }
     ],
     [
@@ -1899,7 +2134,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "124ab23db6360f5aae3958dd"
       }
     ],
     [
@@ -1912,7 +2148,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Identifiers and keywords selected from the released question.",
-        "adapted": false
+        "adapted": false,
+        "id": "3599ce3f5ab42473a501d05d"
       }
     ],
     [
@@ -1925,7 +2162,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Brief direct excerpt; PDF line wrapping normalized.",
-        "adapted": false
+        "adapted": false,
+        "id": "1c51b254878f9d219cd5d58b"
       }
     ],
     [
@@ -1938,7 +2176,8 @@ const LESSONS = {
         "provenance": "Publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Declaration or call excerpt from the released question; a fragment, not a complete program.",
-        "adapted": false
+        "adapted": false,
+        "id": "7625ffb1d2a70bab31023a96"
       }
     ],
     [
@@ -1951,7 +2190,8 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Original explanation of the cited question, not quoted exam text or an official answer.",
-        "adapted": true
+        "adapted": true,
+        "id": "3101849cc183188f73869cb0"
       }
     ],
     [
@@ -1964,7 +2204,44 @@ const LESSONS = {
         "provenance": "Original drill based on a publisher-released question",
         "sourcePath": "Publisher PDF: https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf",
         "note": "Original typing drill inspired by the cited question; assumes surrounding fields/helpers. Not an official solution.",
-        "adapted": true
+        "adapted": true,
+        "id": "edd486066b03ba49f513e3fa"
+      }
+    ],
+    [
+      "FRQ wording · StudySession: class design and state",
+      "A teacher uses a StudySession object to record the active practice time for one student. The object stores the student's name, a daily target measured in minutes, the number of minutes recorded so far, and the number of completed activities. You will implement the constructor and two methods described below. This is an original typing exercise in the style of a free-response specification; no program needs to be submitted.\n\nThe constructor has the signature public StudySession(String name, int target). It initializes a new session for the named student. The target argument is positive. At construction, the total number of recorded minutes and the number of completed activities are both zero. The object must retain the supplied name and target for use by other methods.\n\nPart (a): Write the method public void recordActivity(int minutes). The argument represents the duration of one completed activity. If minutes is positive, the method adds that value to the total practice time and increases the activity count by one. If minutes is zero or negative, the object remains unchanged. The method does not print a message and does not return a value.\n\nFor example, suppose a session has a target of 30 minutes. After calls with arguments 12, 0, and 9, the session contains 21 recorded minutes and two completed activities. The call with argument 0 does not count as an activity. A later call with argument 15 increases the total to 36 minutes and the activity count to three. The total is allowed to exceed the target.\n\nPart (b): Write the method public String getSummary(). It returns a string containing the student's name, followed by a colon and one space. If the total practice time is at least the target, the remainder of the string is \"target reached\". Otherwise, the remainder gives the number of additional minutes required, followed by \" minutes remaining\". Calling this method must not change any instance variable.\n\nAssume that the class has appropriate private instance variables and that all arithmetic remains within the range of int. Use the accumulated total when deciding whether the target has been reached. Do not reset the total after an activity, and do not count an invalid activity merely because the method was called.",
+      {
+        "kind": "FRQ wording",
+        "source": "Typewell extended practice",
+        "provenance": "Original exam-style exercise",
+        "note": "Original AP CSA-style problem specification for typing practice; not a released test question or an official exam-length requirement.",
+        "adapted": true,
+        "id": "20cc64012cfe6058db427fab"
+      }
+    ],
+    [
+      "FRQ wording · ReadingList: ordered collections and removal",
+      "A ReadingList object stores titles in an ArrayList<String> named titles. The list may be empty, and the same title may occur more than once. Every element is non-null. Titles are stored in the order in which they were added. You will implement two methods that operate on this collection. This original specification provides practice typing common free-response wording, method signatures, and boundary conditions.\n\nPart (a): Write the method public int countStartingWith(String prefix). It returns the number of elements whose initial characters exactly match prefix. Comparisons are case-sensitive. The method must examine every title, including duplicate entries, and must not change the list. You may assume that prefix is non-null. An empty prefix matches every title, including an empty title.\n\nFor example, if titles contains \"River Life\", \"River Life\", \"Riverside\", \"river birds\", and \"Mountain Water\", a call with the argument \"River\" returns 3. The lowercase title does not match because comparisons are case-sensitive. A call with the argument \"Ocean\" returns 0. If the list is empty, every call returns 0 regardless of the prefix.\n\nPart (b): Write the method public int removeShortTitles(int minimumLength). It removes every title whose length is less than minimumLength and returns the number of entries removed. The relative order of the remaining titles must be preserved. You may assume that minimumLength is nonnegative. A title whose length is exactly the minimum remains in the list.\n\nConsider the list \"Sun\", \"Ice\", \"Forest\", \"A\", and \"Ocean\". Calling removeShortTitles(4) removes three entries and leaves \"Forest\" followed by \"Ocean\". Both of the first two entries must be removed even though they are adjacent. Removing an element shifts later elements toward the beginning of an ArrayList, so an implementation must account for changes in index positions.\n\nThe two methods are independent. You may implement either method without calling the other. Do not sort the list, replace it with a different collection, or remove elements during countStartingWith. In removeShortTitles, the return value is the number removed by that particular call, not the number of entries remaining afterward. A second call may therefore return zero even when the list is not empty.",
+      {
+        "kind": "FRQ wording",
+        "source": "Typewell extended practice",
+        "provenance": "Original exam-style exercise",
+        "note": "Original AP CSA-style problem specification for typing practice; not a released test question or an official exam-length requirement.",
+        "adapted": true,
+        "id": "892eda338bd1dc98e0f72b78"
+      }
+    ],
+    [
+      "FRQ wording · SensorGrid: two-dimensional array traversal",
+      "A SensorGrid object stores nonnegative temperature readings in a rectangular two-dimensional int array named readings. The array has at least one row and at least one column. Each entry represents a measurement from one sensor at one observation time. Rows identify sensors, and columns identify successive observation times. This original free-response-style exercise describes two methods for analysing the grid.\n\nPart (a): Write the method public int countAbove(int threshold). It returns the number of individual entries that are strictly greater than threshold. An entry equal to threshold is not counted. The method must visit the entire array and must not modify any value. Different entries with the same value are counted separately because they represent separate observations.\n\nFor example, consider a grid with first row 18, 22, 22 and second row 25, 19, 21. A call to countAbove(21) returns 3: two entries in the first row and one in the second row exceed 21. The final entry of the second row is equal to the threshold and is excluded. A threshold greater than every reading produces a result of 0.\n\nPart (b): Write the method public int mostVariableSensor(). For each row, define its range as the largest reading minus the smallest reading in that row. The method returns the index of the row with the greatest range. If several rows share the greatest range, return the smallest row index among them. The method does not return the range itself and does not change the array.\n\nIf the rows are 10, 15, 12; 20, 24, 21; and 7, 12, 8, then the ranges are 5, 4, and 5. The required return value is 0 because the first and third rows tie, and row 0 has the smaller index. If every row contains only one reading, all ranges are zero and the method returns 0.\n\nInitialize each row's minimum and maximum from a value in that row rather than assuming that a particular constant will be suitable. Remember that the number of rows and the number of columns may differ. Use the array dimensions when controlling traversal, and ensure that the tie rule is preserved when updating the best row found so far.",
+      {
+        "kind": "FRQ wording",
+        "source": "Typewell extended practice",
+        "provenance": "Original exam-style exercise",
+        "note": "Original AP CSA-style problem specification for typing practice; not a released test question or an official exam-length requirement.",
+        "adapted": true,
+        "id": "246ff43f4c75a4052052392c"
       }
     ],
     [
@@ -1974,7 +2251,8 @@ const LESSONS = {
         "kind": "Words",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "834924f931b2b9a11eab3856"
       }
     ],
     [
@@ -1984,7 +2262,8 @@ const LESSONS = {
         "kind": "Sentence",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "053ee9a8bb1f7b894ebf1028"
       }
     ],
     [
@@ -1994,7 +2273,8 @@ const LESSONS = {
         "kind": "Code",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "7b3a154f5829cd1610431a00"
       }
     ],
     [
@@ -2004,7 +2284,8 @@ const LESSONS = {
         "kind": "Code",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "d6039a468ddd08d2d3951811"
       }
     ],
     [
@@ -2014,7 +2295,8 @@ const LESSONS = {
         "kind": "Code",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "ee424ee3f4954b8bd1c6da66"
       }
     ],
     [
@@ -2024,7 +2306,8 @@ const LESSONS = {
         "kind": "Code",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "aa82e3d2d51faf63ed7030a8"
       }
     ],
     [
@@ -2034,7 +2317,8 @@ const LESSONS = {
         "kind": "Passage",
         "source": "Typewell original practice",
         "provenance": "Original exercise",
-        "note": "Authored typing practice; not quoted from a test question."
+        "note": "Authored typing practice; not quoted from a test question.",
+        "id": "2bc947b3488d1275d0e047e7"
       }
     ]
   ]

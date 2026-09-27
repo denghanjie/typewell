@@ -1,0 +1,29 @@
+[Unit]
+Description=Typewell student accounts and practice progress
+After=network.target
+
+[Service]
+Type=simple
+User=typewell
+Group=typewell
+WorkingDirectory=/opt/typewell
+ExecStart=/usr/bin/python3 /opt/typewell/server.py
+Environment=TYPEWELL_DB=/var/lib/typewell/typewell.sqlite3
+Environment=TYPEWELL_ORIGIN=https://typing.denghanjie.vip
+Environment=PORT=8794
+StateDirectory=typewell
+StateDirectoryMode=0700
+UMask=0077
+Restart=on-failure
+RestartSec=3
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+
+[Install]
+WantedBy=multi-user.target
