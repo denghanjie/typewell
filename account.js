@@ -15,9 +15,9 @@ const Account = (() => {
     try { localStorage.setItem(key(uid), JSON.stringify(queue(uid))); return true; }
     catch { status('Browser storage unavailable. Keep this page open until your results sync.'); return false; }
   }
-  async function api(path, data, uid = user?.id) {
+  async function api(path, data, uid = user?.id, signal) {
     const response = await fetch('/api/' + path, {
-      method: data === undefined ? 'GET' : 'POST', credentials: 'same-origin',
+      method: data === undefined ? 'GET' : 'POST', credentials: 'same-origin', signal,
       headers: { 'Content-Type': 'application/json', 'X-Typewell-Request': '1', 'X-Typewell-User': String(uid || '') },
       body: data === undefined ? undefined : JSON.stringify(data)
     });
@@ -88,6 +88,7 @@ const Account = (() => {
   function setUser(next) {
     generation++; user = next; progress = null;
     window.Typewell?.resetForAccount(); draw();
+    window.dispatchEvent(new Event('typewell-account'));
     if (user) { status('Loading progress…'); chain = chain.then(flush, flush); }
     else status('Sign in to save your progress across devices.');
   }
@@ -118,7 +119,7 @@ const Account = (() => {
   };
   el('sign-out').onclick = async () => {
     el('sign-out').disabled = true;
-    try { window.Typewell?.checkpoint(); await chain; await api('logout', {}); setUser(null); }
+    try { await window.Race?.leave(); window.Typewell?.checkpoint(); await chain; await api('logout', {}); setUser(null); }
     catch (e) { status(e.message); }
     finally { el('sign-out').disabled = false; }
   };
@@ -139,5 +140,5 @@ const Account = (() => {
     try { const result = await api('me'); setUser(result.user); }
     catch(e) { status(e.message); }
   }
-  return {init, saveResult, saveDraft, signedIn:() => !!user};
+  return {init, saveResult, saveDraft, refresh, request:api, currentUser:()=>user, signedIn:() => !!user};
 })();

@@ -12,6 +12,9 @@ import time
 from http.cookies import SimpleCookie
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import races
 
 DB = Path(os.environ.get('TYPEWELL_DB', '/var/lib/typewell/typewell.sqlite3'))
 ORIGIN = os.environ.get('TYPEWELL_ORIGIN', 'https://typing.denghanjie.vip')
@@ -54,6 +57,7 @@ def initialize():
             PRIMARY KEY(key,bucket));
         CREATE INDEX IF NOT EXISTS results_user_date ON results(user_id,completed_at);
         ''')
+        races.initialize(db)
     os.chmod(DB, 0o600)
 
 def digest(value):
@@ -195,7 +199,7 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         try:
             if not self.path.startswith('/api/') and os.environ.get('TYPEWELL_STATIC'):
-                files = {'/': 'index.html', '/index.html': 'index.html', '/app.js': 'app.js', '/account.js': 'account.js', '/styles.css': 'styles.css', '/lessons.js': 'lessons.js'}
+                files = {'/': 'index.html', '/index.html': 'index.html', '/app.js': 'app.js', '/account.js': 'account.js', '/race.js': 'race.js', '/styles.css': 'styles.css', '/lessons.js': 'lessons.js'}
                 name = files.get(self.path)
                 if not name:
                     raise APIError(404, 'Not found.')
@@ -222,7 +226,7 @@ class Handler(BaseHTTPRequestHandler):
                 completed = [r[0] for r in db.execute('SELECT DISTINCT lesson_id FROM results WHERE user_id=?', (uid,))]
                 draft = db.execute('SELECT lesson_id AS lessonId,position,duration_ms AS durationMs,attempts,correct_attempts AS correctAttempts,updated_at AS updatedAt FROM drafts WHERE user_id=?', (uid,)).fetchone()
                 return self.send_json(200, {'results':rows,'summary':summary,'completed':completed,'draft':dict(draft) if draft else None})
-        except APIError as e:
+        except (APIError, races.RaceError) as e:
             self.send_json(e.status, {'error':e.message})
         except Exception:
             self.send_json(500, {'error':'Progress is temporarily unavailable. Please try again.'})
@@ -267,6 +271,14 @@ class Handler(BaseHTTPRequestHandler):
                     return self.send_json(200,{'user':{'id':user['id'],'username':username}},cookie)
                 user = self.require_user(db)
                 uid = user['id']
+                if self.path.startswith('/api/race/'):
+                    action = self.path.rsplit('/', 1)[-1]
+                    self.limit(db, 'race:' + str(uid), 1200)
+                    if action in ('create', 'join'):
+                        self.limit(db, 'room:' + str(uid), 30)
+                    value = races.handle(self, db, uid, action, data)
+                    db.commit()
+                    return self.send_json(200, {'room':value})
                 self.limit(db,'writes',1000)
                 if self.path == '/api/logout':
                     db.execute('DELETE FROM sessions WHERE token_hash=?',(digest(self.session_token()),))
@@ -299,7 +311,7 @@ class Handler(BaseHTTPRequestHandler):
                     db.commit()
                     return self.send_json(200,{'ok':True})
                 raise APIError(404,'Not found.')
-        except APIError as e:
+        except (APIError, races.RaceError) as e:
             self.send_json(e.status,{'error':e.message})
         except Exception:
             self.send_json(500,{'error':'Your change could not be saved. Please try again.'})

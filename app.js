@@ -116,6 +116,7 @@ function checkpoint(){
   Account.saveDraft({lessonId:LESSONS[track][lessonIndex][2].id,position,durationMs:Math.round(duration()),attempts,correctAttempts});
 }
 window.Typewell = {
+  keyHint:c=>{const f=fingerFor(c);const shift=/[A-Z]/.test(c)||Object.hasOwn(shiftBase,c);return 'Next: '+(c===' '?'Space':c==='\n'?'Enter':c.toUpperCase())+' · '+fingerNames[f]+(shift?' + '+(f.startsWith('l')?'right':'left')+' Shift':'');},
   checkpoint,
   guestResults:()=>history,
   resetForAccount:()=>{clearTimeout(checkpointTimer);reset();},
